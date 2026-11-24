@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="256" viewBox="0 0 1280 256" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Zzheng</title>
+  <desc id="description">Exploring reliable and efficient software with AI. A minimal banner with three connected nodes.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#DCE4E0"/>
+    </pattern>
+    <linearGradient id="fade" x1="780" y1="128" x2="1280" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F8F6"/>
+      <stop offset="1" stop-color="#F6F8F6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="256" rx="16" fill="#F6F8F6"/>
+  <rect x="784" y="16" width="480" height="224" rx="12" fill="url(#grid)"/>
+  <rect x="780" y="16" width="484" height="224" fill="url(#fade)"/>
+  <rect x="48" y="55" width="28" height="3" rx="1.5" fill="#397565"/>
+  <text x="48" y="130" fill="#20362E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="650" letter-spacing="-2">Zzheng</text>
+  <text x="50" y="175" fill="#53665D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Exploring reliable and efficient software with AI.</text>
+  <path d="M918 156L1008 96L1116 156" stroke="#B5CEC2" stroke-width="2"/>
+  <path d="M918 156H1116" stroke="#B5CEC2" stroke-width="2" stroke-dasharray="5 7"/>
+  <circle cx="918" cy="156" r="8" fill="#F6F8F6" stroke="#729D8B" stroke-width="2"/>
+  <circle cx="1008" cy="96" r="10" fill="#397565"/>
+  <circle cx="1116" cy="156" r="8" fill="#F6F8F6" stroke="#729D8B" stroke-width="2"/>
+</svg>
